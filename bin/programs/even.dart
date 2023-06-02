@@ -4,7 +4,6 @@ void main() {
   int i;
   //We create the for loop that increments the counter
   for (i = 1; i <= 10; i++) {
-
     //This block checks if the numbers are odd and prints them out
     if (i % 2 == 0) {
       print('$i');
@@ -15,3 +14,5 @@ void main() {
     }
   }
 }
+
+
